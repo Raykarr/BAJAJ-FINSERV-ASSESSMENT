@@ -11,8 +11,3 @@ Please note that this repository is **unofficial** and is not associated with Ba
 ## Project Description
 
 This project was designed to fulfill the requirements specified in the data science internship assessment at Bajaj Finserv. It includes various tasks and challenges that showcase analytical and programming skills relevant to the field of data science.
-
-## Contact
-
-For any inquiries or further information, please feel free to contact me at [your_email@example.com].
-
